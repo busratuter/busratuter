@@ -1,5 +1,6 @@
 ### Hi I'm Büşra 👋
 
+I'm an active computer engineering student now.
 
 - 🔭 I’m currently working on algorithm
 - 🌱 I’m currently learning C 
