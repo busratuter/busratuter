@@ -2,8 +2,8 @@
 
 I'm an active computer engineering student now.
 
-- 🔭 I’m currently working on algorithm
-- 🌱 I’m currently learning C 
+- 🔭 I’m currently working on algorithm, data structures
+- 🌱 I’m currently learning Unity, SQL, Java
 - 💬 Ask me: We can talk everything about tech developments and the world of computers. 
 - 📫 How to reach me: busratuter@outlook.com
 - ⚡ Fun fact: I take care to read as many books as possible and stay up to date.
