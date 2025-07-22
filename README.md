@@ -1,6 +1,6 @@
 ### Hi I'm Büşra 👋
 
-I'm an active computer engineering student now.
+I'm an AI R&D Engineer focused on building intelligent systems powered by LLMs.
 
 - 🔭 I’m currently working on Artificial Intelligence, LangChain, RAG, AI Agents
 - 🌱 I’m currently learning LangGraph
